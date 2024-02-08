@@ -83,9 +83,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### EMPLOYEE DATA
-![](1c add.png)
+![](1c_add.png)
 ##### WEATHER DATA
-![](d add.png)
+![](d_add.png)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -103,9 +103,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### EMPLOYEE DATA
-![](1c remove.png)
+![](1c_remove.png)
 ##### WEATHER DATA
-![](d remove.png)
+![](d_remove.png)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -123,9 +123,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ##### EMPLOYEE DATA
-![](1c normalize.png)
+![](1c_normalize.png)
 ##### WEATHER DATA
-![](d normalize.png)
+![](d_normalize.png)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
